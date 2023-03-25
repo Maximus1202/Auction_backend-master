@@ -1,8 +1,10 @@
-# AUCTION PROJECT (Maxim Mirochnik, Itamar Atia, Ofir Shlomay)
-Backend : JAVA SPRING
-Frontend: REACT
+# AUCTION FULLSTACK PROJECT 2023 (Maxim Mirochnik && Ofir Shlomay)
 
-> @authors: Maxim Mirochnik, Itamar Atia, Ofir Shlomay<br>
+Backend : JAVA SPRING
+Frontend: REACT.js
+Database: SQLite
+
+> @authors: Maxim Mirochnik, Ofir Shlomay<br>
 > @github : https://github.com/Maximus1202 <br>
 
 ### `APIs`
